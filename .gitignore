@@ -1,0 +1,12 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore editor/IDE folders
+.vscode/
+.idea/
+
+# Ignore build outputs (if any)
+dist/
+build/
+
