@@ -1,17 +1,5 @@
-name: Markdown Lint
-
-on:
-  push:
-  pull_request:
-
-jobs:
-  markdownlint:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Run Markdown Lint
-        uses: actionshub/markdownlint@v2
-        with:
-          config: ".markdownlint.json"
+- name: Run Markdown Lint
+  uses: gaurav-nelson/github-action-markdown-link-check@v1
+  with:
+    use-quiet-mode: 'yes'
+    use-verbose-mode: 'yes'
