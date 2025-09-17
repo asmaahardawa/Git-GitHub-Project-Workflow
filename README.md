@@ -1,4 +1,4 @@
-Git & GitHub Project Workflow Demonstration
+# Git & GitHub Project Workflow Demonstration
 
 ## Project Purpose
 This project demonstrates mastery of Git and GitHub by completing a full software project workflow individually from repository creation to release management while following proper version control practices.
@@ -24,3 +24,14 @@ It includes:
 - Some screenshots or diagrams of branches, issues, and pull requests would make the documentation more visual and beginner-friendly.
 - In the future, I could add a basic test script or CI/CD workflow to show automated checks before merging code.
 
+## Project Management
+
+This project uses a **GitHub Project Board** to organize and track work.  
+Issues are actively categorized across different columns:  
+- **To Do** – tasks planned but not yet started  
+- **In Progress** – tasks currently being worked on  
+- **Done** – completed tasks  
+
+This board provides a clear overview of the project's current status and helps keep work structured.  
+
+[View the Project Board here](https://github.com/users/asmaahardawa/projects/1/views/1)
