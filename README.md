@@ -34,5 +34,4 @@ Issues are actively categorized across different columns:
 
 This board provides a clear overview of the project's current status and helps keep work structured.  
 
-<!-- [View the Project Board here](https://github.com/users/asmaahardawa/projects/1/views/1) -->
-[View the Project Board here](https://google.com)
+[View the Project Board here](https://github.com/users/asmaahardawa/projects/1/views/1)
