@@ -1,5 +1,21 @@
-- name: Run Markdown Lint
-  uses: gaurav-nelson/github-action-markdown-link-check@v1
-  with:
-    use-quiet-mode: 'yes'
-    use-verbose-mode: 'yes'
+name: Markdown Lint
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  markdownlint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run Markdown Link Check
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'yes'
+
