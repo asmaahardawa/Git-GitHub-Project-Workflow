@@ -16,3 +16,11 @@ It includes:
 - Structured commits with meaningful messages
 - Example branches for new features
 - Pull requests
+## Known Issues / Future Improvements
+
+- Right now, the .gitignore only covers the basics — I’d like to expand it to include .env files, build folders, and OS-specific files so the repo stays clean.
+- The CONTRIBUTING.md file is very simple — I’d add coding style rules, branch naming tips, and setup steps if more people were contributing.
+- This repo doesn’t have example project files yet. Adding a small sample project would make the workflow easier to follow.
+- Some screenshots or diagrams of branches, issues, and pull requests would make the documentation more visual and beginner-friendly.
+- In the future, I could add a basic test script or CI/CD workflow to show automated checks before merging code.
+
