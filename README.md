@@ -16,6 +16,7 @@ It includes:
 - Structured commits with meaningful messages
 - Example branches for new features
 - Pull requests
+
 ## Known Issues / Future Improvements
 
 - Right now, the .gitignore only covers the basics, I’d like to expand it to include .env files, build folders, and OS-specific files so the repo stays clean.
