@@ -1,0 +1,16 @@
+#config.yaml example
+app:
+  name: MyApp
+  version: 1.0
+  environment: development
+
+database:
+  host: localhost
+  port: 5432
+  username: admin
+  password: secret123
+
+features:
+  - authentication
+  - logging
+  - monitoring
