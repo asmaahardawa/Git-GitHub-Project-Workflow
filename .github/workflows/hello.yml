@@ -1,0 +1,11 @@
+name: Hello GitHub Actions
+
+on:
+  push:   # Trigger this workflow when you push to the repository
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest  # GitHub runner machine
+    steps:
+      - name: Print Hello Message
+        run: echo "Hello GitHub Actions"
