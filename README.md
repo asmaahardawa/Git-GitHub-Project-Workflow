@@ -25,13 +25,18 @@ It includes:
 - Some screenshots or diagrams of branches, issues, and pull requests would make the documentation more visual and beginner-friendly.
 - In the future, I could add a basic test script or CI/CD workflow to show automated checks before merging code.
 
+## Why I Want to Become a DevSecOps Engineer
+I want to become a DevSecOps Engineer because I love the idea of bringing development, security, and operations together to build software that is both fast and secure. I believe security should never be an afterthought, and it excites me to work on automating processes so teams can move faster without compromising safety.
+
+I enjoy finding ways to make repetitive work easier with CI/CD pipelines, and I’m always eager to learn new things about security and infrastructure. DevSecOps feels like the perfect path for me because it combines my passion for security, automation, and continuous improvement.
+
 ## Project Management
 
 This project uses a **GitHub Project Board** to organize and track work.  
 Issues are actively categorized across different columns:  
 - **To Do** – tasks planned but not yet started  
-- **In Progress** – tasks currently being worked on  
-- **Done** – completed tasks  
+- **In Progress** – tasks currently being worked on 
+- **Done** – completed tasks
 
 This board provides a clear overview of the project's current status and helps keep work structured.  
 
